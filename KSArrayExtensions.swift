@@ -1,6 +1,6 @@
 //
 //  KSArrayUtil.swift
-//  Runestone
+//  KitsuneSwiftLibrary
 //
 //  Created by Ben Wheatley on 08/02/2017.
 //  Copyright © 2017 Ben Wheatley. All rights reserved.
